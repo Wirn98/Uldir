@@ -68,6 +68,8 @@ Lorsque que l'ascenseur arrive à destination, retour en phase 1. Mais les Goutt
 
 
 
+
+
 ## DAME
 
 ```
@@ -117,7 +119,35 @@ Commencez les traverser quand DAME arrive vers 50 d’énergie -ou après selon 
 
 
 
-## **Dévoreur Fétide !**
+
+
+## Dévoreur Fétide :
+
+```
+Avant de prendre le 4ème coup de la Terreur ravageuse, le tank ayant la menace doit être bien remonté en point de vie. Le tank avec l'affaiblissement Terrible rossée ne doit pas tanker le boss après avoir subi le coup.
+```
+
+```
+Le boss repousse régulièrement les joueurs avec Piétinement de choc. Tankez- le dans une alcôve de la salle pour être repoussé contre un mur. Attention évitez de le tanker pile sous les potentielles chutes de miasmes. Les joueurs ciblés par Miasme malodorant doivent être tenus hauts en points de vie avant que le miasme se change en Paroxysme putride. Sous Paroxysme putride, le joueur doit être constamment soigné.
+```
+
+```
+Évitez la Régurgitation putride, un souffle incanté par le boss à 100 d’énergie.
+```
+
+```
+La salle est peuplée d’alcôves dans lesquelles peuvent apparaître des pluies de déchets rouges, annonçant l’arrivée d’un Corpuscule de corruption. Ne restez pas sous le flot de déchets ou vous subirez un Miasme malodorant. Tuez le Corpuscule de corruption avant qu’il n’ait fini son incantation, sinon le boss le mangera, se soignant et gagnant de l’énergie.
+
+Arrivé à 50% de points de vie, le Dévoreur lance Frénésie fétide. Les tanks devront faire particulièrement attention au Terrible rossée.
+```
+
+#### 
+
+TANK : 
+
+DPS :
+
+HEAL :
 
 
 
