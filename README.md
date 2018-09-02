@@ -1,2 +1,0 @@
-# Uldir
-Strat Uldir
