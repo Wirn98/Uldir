@@ -63,7 +63,8 @@ Lorsque que l'ascenseur arrive à destination, retour en phase 1. Mais les Goutt
 ## DAME
 
 ```
-En entrant dans la première salle, DAME lance un protocole de Purification. Il sera nécessaire de changer de salle avant la fin du protocole ou c'est la mort du raid. Sa Purification reviendra à 0 à chaque changement de salle. Il y a 3 salles, donc 2 changements.
+En entrant dans la première salle, DAME lance un protocole de Purification. Il sera nécessaire de changer de salle avant la fin du protocole ou c'est la mort du raid. 
+Sa Purification reviendra à 0 à chaque changement de salle. Il y a 3 salles, donc 2 changements.
 ```
 
 #### Dans les salles :
