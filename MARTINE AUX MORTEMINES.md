@@ -77,8 +77,8 @@ Retenez l'ordre pour anticiper vos déplacements. Il est possible de se placer a
 
 ```
 Pour changer de salle, il faut passer à travers une Grille de défense. La grille bloque le champ de vision. Il faut faire passer un nombre réduit de joueur pour éviter de trop gros dégâts sur le raid. Chaque joueur passant à travers la grille fait apparaître un Vestige de corruption, qu’il faudra tuer en priorité en interrompant sa Corruption tenace.
-Il faudra envoyer groupe par groupe jusqu’à ce que seul un tank et un soigneur reste de l’autre côté de la grille. Le premier groupe serait constitué de : Tank Dps Dps. Le deuxième de : Heal Dps Dp.
-Alternez ensuite entre des groupes pleins de Dps ou avec un soigneur. Il doit avoir entre 2 et 3 personnes par groupe. Commencez les traverser quand DAME arrive vers 50 d’énergie -ou après selon la taille de votre raid. Faites passer un groupe quand les Vestige de corruption  du groupe suivant sont bien morts.
+Il faudra envoyer groupe par groupe jusqu’à ce que seul un tank et un soigneur reste de l’autre côté de la grille. Le premier groupe serait constitué de : Tank Dps Dps. Le deuxième de : Heal Dps Dp.Alternez ensuite entre des groupes pleins de Dps ou avec un soigneur. Il doit avoir entre 2 et 3 personnes par groupe. 
+Commencez les traverser quand DAME arrive vers 50 d’énergie -ou après selon la taille de votre raid. Faites passer un groupe quand les Vestige de corruption  du groupe suivant sont bien morts.
 ```
 
 
