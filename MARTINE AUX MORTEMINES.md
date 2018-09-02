@@ -3,7 +3,6 @@
 # MARTINE AUX MORTEMINES !
 
 La liste des strats pour les raids BFA !
-![](telechargement.png)
 ## RAID BFA 
 
 ### ULDIR
