@@ -145,9 +145,21 @@ Arrivé à 50% de points de vie, le Dévoreur lance Frénésie fétide. Les tank
 
 TANK : 
 
+- L'off Tank doit etre proche du Main tank pour prendre "affaiblissement Terrible".
+- Esquiver "Régurgitation putride".
+- Tank dos au raid et dos à une alcove pour éviter le bump.
+
 DPS :
 
+- Focus les Corpuscule de corruption !
+- Se mettre dos à une alcoves pour éviter le Bump.
+- Esquiver "Régurgitation putride".
+
 HEAL :
+
+- Faire très attention aux joueurs ciblé par "Miasme malodorant".
+- Esquiver "Régurgitation putride".
+- Se mettre dos à une alcoves pour éviter le Bump.
 
 
 
