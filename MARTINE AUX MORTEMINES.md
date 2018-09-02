@@ -94,6 +94,8 @@ Commencez les traverser quand DAME arrive vers 50 d’énergie -ou après selon 
 - Tank dos au raid et esquiver "Frappe assainissante".
 - Un des tank doit aller dans la salle suivante avec les premier groupe de DPS.
 - Le MT doit passer en dernier avec le dernier Heal.
+- Esquiver les "Flamme purificatrice" qui pop sous vos pieds.
+- Se mettre dos à un mur pour ne pas prendre "Tunnel de vent".
 
 #### DPS :
 
@@ -105,7 +107,8 @@ Commencez les traverser quand DAME arrive vers 50 d’énergie -ou après selon 
 #### HEAL :
 
 - Faire attention aux passages des joueurs dans salle suivante ( Gros Burst de dégats ).
-- Attention à vos placements.
+- Esquiver les "Flamme purificatrice" qui pop sous vos pieds.
+- Se mettre dos à un mur pour ne pas prendre "Tunnel de vent".
 
 
 
