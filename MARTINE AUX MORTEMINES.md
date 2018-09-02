@@ -64,6 +64,8 @@ Lorsque que l'ascenseur arrive à destination, retour en phase 1. Mais les Goutt
 - Heal de zone quand les joueurs se pack à l'opposer de l'arme après le "broyeur de sang".
 - Repartir les "Tempête de sang" du côté où le boss place sont arme.
 
+## Strat en Vidéo : https://www.youtube.com/watch?v=-nY3AEHwGrE.
+
 
 
 ## DAME
@@ -111,7 +113,11 @@ Commencez les traverser quand DAME arrive vers 50 d’énergie -ou après selon 
 - Esquiver les "Flamme purificatrice" qui pop sous vos pieds.
 - Se mettre dos à un mur pour ne pas prendre "Tunnel de vent".
 
+## Strat en Vidéo : https://www.youtube.com/watch?v=j-wqj6m1vDI
 
+
+
+## **Dévoreur Fétide !**
 
 
 
