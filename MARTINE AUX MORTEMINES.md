@@ -1,5 +1,6 @@
 #================================================================================
 #===============![](https://vignette.wikia.nocookie.net/lignee-fourchebrume/images/e/e6/Alliance-Logo1.png/revision/latest?cb=20131112202807&path-prefix=fr)![](https://cdn.discordapp.com/attachments/485654292938752001/485661340497870870/telechargement.png)=================
+
 # MARTINE AUX MORTEMINES !
 
 La liste des strats pour les raids BFA !
@@ -46,10 +47,10 @@ $ broyeur de sang :   https://fr.wowhead.com/spell=271296/broyeur-de-sang
 ```
 Taloc se place au centre de la salle et ne prend plus de dégâts. Placez vous sur le bord de la salle, à l'extrémité de votre grosse zone de tempêtes. Un tank encaisse les Gouttelette volatile, l’autre tank le Sang amalgamé qui lâche constamment des Tempête de sang sur son chemin. Le raid doit donc tourner sur le bord de la salle doucement pour éviter les Tempête de sang du Sang amalgamé tout en évitant les Rayon défensif d’Uldir qui apparaissent dans la cage d'ascenseur.
 
-Lorsque que l'ascenseur arrive à destination, retour en phase 1.
+Lorsque que l'ascenseur arrive à destination, retour en phase 1. Mais les Gouttelette volatile reviennes.
 ```
 
-
+#### 
 
 #### TANK : 
 
