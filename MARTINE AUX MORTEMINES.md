@@ -154,6 +154,7 @@ DPS :
 - Focus les Corpuscule de corruption !
 - Se mettre dos à une alcoves pour éviter le Bump.
 - Esquiver "Régurgitation putride".
+- Burst et BL à 50% de pv du Boss.
 
 HEAL :
 
