@@ -56,11 +56,12 @@ Lorsque que l'ascenseur arrive à destination, retour en phase 1. Mais les Goutt
 - Repartir les "Tempête de sang" du côté où le boss place sont arme.
 - Ce pack à l'opposer l'opposer de sont arme quand le boss fait "broyeur de sang".
 - Kite les Gouttelette volatile qui seront pris par un tank dans la Phase 2. Dans la phase 3 ils devront etre dps par les Dps distances.
+- Burst et BL en Phase 3.
 
 #### HEAL : 
 
 - Faire attention aux joueurs ciblé par "Tempête de sang".
-- Heal de zone quand les joueurs se pack à l'opposer de l'arme après le "broyeur de sang"
+- Heal de zone quand les joueurs se pack à l'opposer de l'arme après le "broyeur de sang".
 
 
 
@@ -86,13 +87,29 @@ Il faudra envoyer groupe par groupe jusqu’à ce que seul un tank et un soigneu
 Commencez les traverser quand DAME arrive vers 50 d’énergie -ou après selon la taille de votre raid. Faites passer un groupe quand les Vestige de corruption  du groupe suivant sont bien morts.
 ```
 
+#### 
+
+#### TANK :  
+
+- Tank dos au raid et esquiver "Frappe assainissante".
+- Un des tank doit aller dans la salle suivante avec les premier groupe de DPS.
+- Le MT doit passer en dernier avec le dernier Heal.
+
+#### DPS :
+
+- Esquiver les "Flamme purificatrice" qui pop sous vos pieds.
+- Se mettre dos à un mur pour ne pas prendre "Tunnel de vent".
+- Kick les adds dans la salle suivante sinon WIPE.
+- Burst et BL dans la derniere salle.
+
+#### HEAL :
+
+- Faire attention aux passages des joueurs dans salle suivante ( Gros Burst de dégats ).
+- Attention à vos placements.
 
 
-## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
 ## License
 Martine Aux Mortemines Copyright
