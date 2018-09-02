@@ -115,7 +115,7 @@ Commencez les traverser quand DAME arrive vers 50 d’énergie -ou après selon 
 - Esquiver les "Flamme purificatrice" qui pop sous vos pieds.
 - Se mettre dos à un mur pour ne pas prendre "Tunnel de vent".
 
-## Strat en Vidéo : https://www.youtube.com/watch?v=j-wqj6m1vDI
+## Strat en Vidéo : https://www.youtube.com/watch?v=j-wqj6m1vDI.
 
 
 
@@ -143,26 +143,86 @@ Arrivé à 50% de points de vie, le Dévoreur lance Frénésie fétide. Les tank
 
 #### 
 
-TANK : 
+#### TANK : 
 
 - L'off Tank doit etre proche du Main tank pour prendre "affaiblissement Terrible".
 - Esquiver "Régurgitation putride".
 - Tank dos au raid et dos à une alcove pour éviter le bump.
 
-DPS :
+#### DPS :
 
 - Focus les Corpuscule de corruption !
 - Se mettre dos à une alcoves pour éviter le Bump.
 - Esquiver "Régurgitation putride".
 - Burst et BL à 50% de pv du Boss.
 
-HEAL :
+#### HEAL :
 
 - Faire très attention aux joueurs ciblé par "Miasme malodorant".
 - Esquiver "Régurgitation putride".
 - Se mettre dos à une alcoves pour éviter le Bump.
+- Garder le MT très haut en PV.
+
+## Strat en Vidéo :  https://www.youtube.com/watch?v=6J1VH9fMBUI.
 
 
+
+
+
+## Zek ' Vos
+
+#### Pendent tous le fight :
+
+```
+Il doit être tanké dos au raid, pour que le raid ne prenne pas la Puissance du Vide. Lors de ce cast, il lance un Fouet du Vide, puis un Fracasser et encore un Fouet du Vide. Les tanks doivent changer après le Fracasser ou le deuxième Fouet du Vide selon votre assurance.
+
+Etincelle de Titan inflige des dégâts au raid pendant tout le combat.
+
+À 100 d’énergie, le boss lance Déferlante ténébreuse. Vous pouvez juste éviter les zones ou garder le raid groupé et déplacer le boss à un autre point de la salle à 100 d’énergie, puis le ramener vers le groupe, évitant d’avoir à déplacer l'intégralité du raid régulièrement..
+```
+
+#### Phase 1 :
+
+```
+Les joueurs seront attaqués par des Guerrier silithide qui ignorent la menace des tanks et qui fixent un joueur. Tuez-les vite et contrôlez-les. Un Rayon accablant visera certains joueurs. Pour éviter les rebonds, tenez-vous tous à distance les uns des autres et les mêlés devront être très réactifs et éviter les corps à corps.
+```
+
+#### Phase 2 à 70% :
+
+```
+Trois nérubiens apparaissent en triangle. Ils ne peuvent pas être bougés mais peuvent être étourdis ou mis au silence. Il faut interrompre leur Éclair de Vide à la fin de l’incantation. Un distance et un mêlé par nérubien devrait suffire pour les interruptions. Tankez le boss sur un des nérubiens.
+
+Les joueurs ciblés par Tromperie frémissante doivent se placer dans un coin de la salle pour placer le nuage inquiétant. Ne marchez pas dans un nuage inquiétant ou vous ferez apparaître un nouveau monstre qui inflige de gros dégâts au raid s'il est tué ou s'il s’autodétruit.
+```
+
+#### Phase 3 à 40% : 
+
+```
+Etincelle de Titan arrive plus souvent. Les dps doivent encaisser les Orbe de corruption qui tombent du ciel. Un dps par orbe. Un dps sous Orbe de corruption obtient Pacte du corrupteur pendant 30 secondes. À la fin du pacte, il subit Volonté du Corrupteur. Il faudra contrôler, interrompre ou/et tuer ce dps.
+```
+
+#### TANK : 
+
+- Tanker dos au raid.
+- Switch à chaque fois que le boss lance "Fracasser"
+- Tanker le boss sur un des nérubiens en Phase 3.
+- Esquiver "Déferlante ténébreuse" à 100% d'énergie du boss.
+
+#### DPS :
+
+- Rester de-pack durant la Phase 1.
+- Les joueurs ciblés par les Guerrier silithide doivent se pack derrière le boss et les autres doivent les dépop rapidement en Phase 1.
+- Focus les nérubiens et les kick à tours de rôle.
+- Les joueurs ciblés par Tromperie frémissante doivent se placer dans un coin de la salle pour placer le nuage inquiétant en Phase 2.
+- Les DPS distances doivent se mettre où les"Etincelle de Titan" tombent pour Sock. ( Ils seront buff par "Pacte du corrupteur" qui va augmenter leur dps ).
+- Controle ou dps les dps qui arrivent à la fin du "Pacte du corrupteur".
+- Burst et BL en Phase 3.
+- Esquiver "Déferlante ténébreuse" à 100% d'énergie du boss.
+
+#### HEAL : 
+
+- Les joueurs ciblés par Tromperie frémissante doivent se placer dans un coin de la salle pour placer le nuage inquiétant en Phase 2.
+- Esquiver "Déferlante ténébreuse" à 100% d'énergie du boss.
 
 ## License
 Martine Aux Mortemines Copyright
