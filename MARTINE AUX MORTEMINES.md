@@ -62,6 +62,7 @@ Lorsque que l'ascenseur arrive à destination, retour en phase 1. Mais les Goutt
 
 - Faire attention aux joueurs ciblé par "Tempête de sang".
 - Heal de zone quand les joueurs se pack à l'opposer de l'arme après le "broyeur de sang".
+- Repartir les "Tempête de sang" du côté où le boss place sont arme.
 
 
 
