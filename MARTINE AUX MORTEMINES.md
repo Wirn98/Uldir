@@ -34,13 +34,7 @@ Les joueurs affectés par Décharge de plasma doivent lâcher leurs Tempête de 
 À 100 d’énergie, le tank ciblé par Broyeur de sang se place dans les Tempête de sang. Le raid s’écarte le plus possible de ce tank. L’autre tank provoque Taloc dès qu’il a fini Broyeur de sang. Après un certain temps, il ira récupérer son Broyeur. Les mêlés doivent s’écarter du chemin.
 ```
 
-* link broyeur de sang :   https://fr.wowhead.com/spell=271296/broyeur-de-sang
-
-```python
-$ broyeur de sang :   https://fr.wowhead.com/spell=271296/broyeur-de-sang
-```
-
-
+* link broyeur de sang :  https://fr.wowhead.com/spell=271296/broyeur-de-sang
 
 #### Phase 2 :
 
@@ -54,9 +48,19 @@ Lorsque que l'ascenseur arrive à destination, retour en phase 1. Mais les Goutt
 
 #### TANK : 
 
+- Switch quand le boss fait sont "broyeur de sang".
+- Pack les Sang amalgamé pour repartir les "Tempête de sang".
+
 #### DPS : 
 
+- Repartir les "Tempête de sang" du côté où le boss place sont arme.
+- Ce pack à l'opposer l'opposer de sont arme quand le boss fait "broyeur de sang".
+- Kite les Gouttelette volatile qui seront pris par un tank dans la Phase 2. Dans la phase 3 ils devront etre dps par les Dps distances.
+
 #### HEAL : 
+
+- Faire attention aux joueurs ciblé par "Tempête de sang".
+- Heal de zone quand les joueurs se pack à l'opposer de l'arme après le "broyeur de sang"
 
 
 
