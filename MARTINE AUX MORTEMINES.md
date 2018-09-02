@@ -1,4 +1,4 @@
-
+#![CI status](https://vignette.wikia.nocookie.net/lignee-fourchebrume/images/e/e6/Alliance-Logo1.png/revision/latest?cb=20131112202807&path-prefix=fr)
 # MARTINE AUX MORTEMINES ![CI status](https://vignette.wikia.nocookie.net/lignee-fourchebrume/images/e/e6/Alliance-Logo1.png/revision/latest?cb=20131112202807&path-prefix=fr)
 
 La liste des strats pour les raids BFA !
