@@ -224,5 +224,7 @@ Etincelle de Titan arrive plus souvent. Les dps doivent encaisser les Orbe de co
 - Les joueurs ciblés par Tromperie frémissante doivent se placer dans un coin de la salle pour placer le nuage inquiétant en Phase 2.
 - Esquiver "Déferlante ténébreuse" à 100% d'énergie du boss.
 
+## Strat en vidéo : https://www.youtube.com/watch?v=nQiWeuEcQ20.
+
 ## License
 Martine Aux Mortemines Copyright
