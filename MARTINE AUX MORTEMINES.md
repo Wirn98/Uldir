@@ -274,5 +274,7 @@ Vectis se transforme en une flaque de sang qu’il ne faut pas toucher et se met
 - Sock des "Bombe de peste" ( personnes désignés pour le RL ). ( Phase 2)
 - Se pack dans un coin de salle opposé aux personnes qui sock les "Bombe de peste" pour diriger les "Geyser de sang". ( Phase 2)
 
+## Strat en Vidéo : https://www.youtube.com/watch?v=qC0ZvHldXDw.
+
 ## License
 Martine Aux Mortemines Copyright
