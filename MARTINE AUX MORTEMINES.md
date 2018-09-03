@@ -34,8 +34,6 @@ Les joueurs affectés par Décharge de plasma doivent lâcher leurs Tempête de 
 À 100 d’énergie, le tank ciblé par Broyeur de sang se place dans les Tempête de sang. Le raid s’écarte le plus possible de ce tank. L’autre tank provoque Taloc dès qu’il a fini Broyeur de sang. Après un certain temps, il ira récupérer son Broyeur. Les mêlés doivent s’écarter du chemin.
 ```
 
-* link broyeur de sang :  https://fr.wowhead.com/spell=271296/broyeur-de-sang
-
 #### Phase 2 :
 
 ```
@@ -48,21 +46,21 @@ Lorsque que l'ascenseur arrive à destination, retour en phase 1. Mais les Goutt
 
 #### TANK : 
 
-- Switch quand le boss fait sont "broyeur de sang".
-- Pack les Sang amalgamé pour repartir les "Tempête de sang".
+- Switch quand le boss fait sont [Broyeur de sang](https://fr.wowhead.com/spell=271296/broyeur-de-sang).
+- Pack les [Sang amalgamé](https://fr.wowhead.com/npc=138959/sang-amalgam%C3%A9) pour repartir les [Tempête de sang](https://fr.wowhead.com/spell=270290/temp%C3%AAte-de-sang).
 
 #### DPS : 
 
-- Repartir les "Tempête de sang" du côté où le boss place sont arme.
-- Ce pack à l'opposer de sont arme quand le boss fait "broyeur de sang".
-- Kite les Gouttelette volatile qui seront pris par un tank dans la Phase 2. Dans la phase 3 ils devront etre dps par les Dps distances.
+- Repartir les [Tempête de sang](https://fr.wowhead.com/spell=270290/temp%C3%AAte-de-sang) du côté où le boss place sont arme.
+- Ce pack à l'opposer de sont arme quand le boss fait [Broyeur de sang](https://fr.wowhead.com/spell=271296/broyeur-de-sang).
+- Kite les [Gouttelette volatile](https://fr.wowhead.com/npc=138530/gouttelette-volatile) qui seront pris par un tank dans la Phase 2. Dans la phase 3 ils devront etre dps par les Dps distances.
 - Burst et BL en Phase 3.
 
 #### HEAL : 
 
-- Faire attention aux joueurs ciblé par "Tempête de sang".
+- Faire attention aux joueurs ciblé par [Tempête de sang](https://fr.wowhead.com/spell=270290/temp%C3%AAte-de-sang).
 - Heal de zone quand les joueurs se pack à l'opposer de l'arme après le "broyeur de sang".
-- Repartir les "Tempête de sang" du côté où le boss place sont arme.
+- Repartir les [Tempête de sang](https://fr.wowhead.com/spell=270290/temp%C3%AAte-de-sang) du côté où le boss place sont arme.
 
 ## Strat en Vidéo : https://www.youtube.com/watch?v=-nY3AEHwGrE.
 
@@ -96,24 +94,24 @@ Commencez les traverser quand DAME arrive vers 50 d’énergie -ou après selon 
 
 #### TANK :  
 
-- Tank dos au raid et esquiver "Frappe assainissante".
+- Tank dos au raid et esquiver [Frappe assainissante](https://fr.wowhead.com/spell=267787/frappe-assainissante).
 - Un des tank doit aller dans la salle suivante avec les premier groupe de DPS.
 - Le MT doit passer en dernier avec le dernier Heal.
-- Esquiver les "Flamme purificatrice" qui pop sous vos pieds.
-- Se mettre dos à un mur pour ne pas prendre "Tunnel de vent".
+- Esquiver les [Flamme purificatrice](https://fr.wowhead.com/spell=267795/flamme-purificatrice) qui pop sous vos pieds.
+- Se mettre dos à un mur pour ne pas prendre [Tunnel de vent](https://fr.wowhead.com/spell=267878/tunnel-de-vent).
 
 #### DPS :
 
-- Esquiver les "Flamme purificatrice" qui pop sous vos pieds.
-- Se mettre dos à un mur pour ne pas prendre "Tunnel de vent".
+- Esquiver les [Flamme purificatrice](https://fr.wowhead.com/spell=267795/flamme-purificatrice) qui pop sous vos pieds.
+- Se mettre dos à un mur pour ne pas prendre [Tunnel de vent](https://fr.wowhead.com/spell=267878/tunnel-de-vent).
 - Kick les adds dans la salle suivante sinon WIPE.
 - Burst et BL dans la derniere salle.
 
 #### HEAL :
 
 - Faire attention aux passages des joueurs dans salle suivante ( Gros Burst de dégats ).
-- Esquiver les "Flamme purificatrice" qui pop sous vos pieds.
-- Se mettre dos à un mur pour ne pas prendre "Tunnel de vent".
+- Esquiver les [Flamme purificatrice](https://fr.wowhead.com/spell=267795/flamme-purificatrice) qui pop sous vos pieds.
+- Se mettre dos à un mur pour ne pas prendre [Tunnel de vent](https://fr.wowhead.com/spell=267878/tunnel-de-vent).
 
 ## Strat en Vidéo : https://www.youtube.com/watch?v=j-wqj6m1vDI.
 
@@ -145,21 +143,21 @@ Arrivé à 50% de points de vie, le Dévoreur lance Frénésie fétide. Les tank
 
 #### TANK : 
 
-- L'off Tank doit etre proche du Main tank pour prendre "affaiblissement Terrible".
-- Esquiver "Régurgitation putride".
+- L'off Tank doit etre proche du Main tank pour prendre [Terrible rossée](https://fr.wowhead.com/spell=262277/terrible-ross%C3%A9e).
+- Esquiver [Régurgitation putride](https://fr.wowhead.com/spell=262291/r%C3%A9gurgitation-putride).
 - Tank dos au raid et dos à une alcove pour éviter le bump.
 
 #### DPS :
 
 - Focus les Corpuscule de corruption !
 - Se mettre dos à une alcoves pour éviter le Bump.
-- Esquiver "Régurgitation putride".
+- Esquiver [Régurgitation putride](https://fr.wowhead.com/spell=262291/r%C3%A9gurgitation-putride).
 - Burst et BL à 50% de pv du Boss.
 
 #### HEAL :
 
-- Faire très attention aux joueurs ciblé par "Miasme malodorant".
-- Esquiver "Régurgitation putride".
+- Faire très attention aux joueurs ciblé par [Miasme malodorant](https://fr.wowhead.com/spell=262313/miasme-malodorant) qui se transforme en [Paroxysme putride](https://fr.wowhead.com/spell=262314/paroxysme-putride).
+- Esquiver [Régurgitation putride](https://fr.wowhead.com/spell=262291/r%C3%A9gurgitation-putride).
 - Se mettre dos à une alcoves pour éviter le Bump.
 - Garder le MT très haut en PV.
 
@@ -206,25 +204,26 @@ Etincelle de Titan arrive plus souvent. Les dps doivent encaisser les Orbe de co
 #### TANK : 
 
 - Tanker dos au raid.
-- Switch à chaque fois que le boss lance "Fracasser" ( Combo de 3 coups).
-- Tanker le boss sur un des nérubiens en Phase 2.
-- Esquiver "Déferlante ténébreuse" à 100% d'énergie du boss.
+- Switch à chaque fois que le boss lance [Fracasser](https://fr.wowhead.com/spell=265248/fracasser) ( Combo de 3 coups).
+- Tanker le boss sur un des nérubiens. ( Phase 2)
+- Esquiver [Déferlante ténébreuse](https://fr.wowhead.com/spell=265451/d%C3%A9ferlante-t%C3%A9n%C3%A9breuse) à 100% d'énergie du boss.
 
 #### DPS :
 
-- Rester de-pack durant la Phase 1.
-- Les joueurs ciblés par les Guerrier silithide doivent se pack derrière le boss et les autres doivent les dépop rapidement en Phase 1.
-- Focus les nérubiens et les kick à tours de rôle en Phase 2.
-- Les joueurs ciblés par Tromperie frémissante doivent se placer dans un coin de la salle pour placer le nuage inquiétant en Phase 2.
-- Les DPS distances doivent se mettre où les"Etincelle de Titan" tombent pour Soak en Phase 3. ( Ils seront buff par "Pacte du corrupteur" qui va augmenter leur dps ).
-- Controle ou dps les dps qui arrivent à la fin du "Pacte du corrupteur" en Phase 3.
+- Rester de-pack. ( Phase 1)
+- Les joueurs ciblés par les [Guerrier silithide](https://fr.wowhead.com/npc=134503/guerrier-silithide) doivent se pack derrière le boss et les autres doivent les dépop rapidement. ( Phase 1)
+- Focus les nérubiens et les kick à tours de rôle. ( Phase 2)
+- Les joueurs ciblés par [Tromperie frémissante](https://fr.wowhead.com/spell=265360/tromperie-fr%C3%A9missante) doivent se placer dans un coin de la salle pour placer le nuage inquiétant. ( Phase 2)
+- Les DPS distances doivent se mettre où les [Orbe de corruption](https://fr.wowhead.com/spell=267334/orbe-de-corruption) tombent pour Soak en Phase 3. ( Ils seront buff par [Pacte du corrupteur](https://fr.wowhead.com/spell=265662/pacte-du-corrupteur) qui va augmenter leur dps ).
+- Controle ou dps les dps qui arrivent à la fin du [Pacte du corrupteur](https://fr.wowhead.com/spell=265662/pacte-du-corrupteur). ( Phase 3)
 - Burst et BL en Phase 3.
-- Esquiver "Déferlante ténébreuse" à 100% d'énergie du boss.
+- Esquiver [Déferlante ténébreuse](https://fr.wowhead.com/spell=265451/d%C3%A9ferlante-t%C3%A9n%C3%A9breuse) à 100% d'énergie du boss.
 
 #### HEAL : 
 
-- Les joueurs ciblés par Tromperie frémissante doivent se placer dans un coin de la salle pour placer le nuage inquiétant en Phase 2.
-- Esquiver "Déferlante ténébreuse" à 100% d'énergie du boss.
+- Les joueurs ciblés par Tromperie frémissante doivent se placer dans un coin de la salle pour placer le nuage inquiétant. ( Phase 2)
+- Faire très attention aux joueurs touchés par [Orbe de corruption](https://fr.wowhead.com/spell=267334/orbe-de-corruption). ( Phase 3)
+- Esquiver [Déferlante ténébreuse](https://fr.wowhead.com/spell=265451/d%C3%A9ferlante-t%C3%A9n%C3%A9breuse) à 100% d'énergie du boss.
 
 ## Strat en vidéo : https://www.youtube.com/watch?v=nQiWeuEcQ20.
 
@@ -253,26 +252,26 @@ Vectis se transforme en une flaque de sang qu’il ne faut pas toucher et se met
 
 #### TANK : 
 
-- Switch de tank à partir de 3 stack d'"Affliction évolutive" ( 4 possible mais à éviter ).
-- L'add qui pop suite à "Gestation" doit etre tank pour le tank ayant le plus de stack. ( Phase 1)
-- Esquiver les "Geyser de sang". ( Phase 2)
-- Sock des "Bombe de peste" ( personnes désignés pour le RL ). ( Phase 2)
-- Se pack dans un coin de salle opposé aux personnes qui sock les "Bombe de peste" pour diriger les "Geyser de sang". ( Phase 2)
+- Switch de tank à partir de 3 stack d'[Affliction évolutive](https://fr.wowhead.com/spell=265178/affliction-%C3%A9volutive) ( 4 possible mais à éviter ). ( Phase 1)
+- L'add qui pop suite à [Contagion](https://fr.wowhead.com/spell=267242/contagion) doit etre tank pour le tank ayant le plus de stack. ( Phase 1)
+- Esquiver les [Geyser de sang](https://fr.wowhead.com/spell=265370/geyser-de-sang). ( Phase 2)
+- Sock des [Bombe de peste](https://fr.wowhead.com/spell=266948/bombe-de-peste) ( personnes désignés pour le RL ). ( Phase 2)
+- Se pack dans un coin de salle opposé aux personnes qui sock les [Bombe de peste](https://fr.wowhead.com/spell=266948/bombe-de-peste) pour diriger les [Geyser de sang](https://fr.wowhead.com/spell=265370/geyser-de-sang). ( Phase 2)
 
 #### DPS : 
 
-- Les joueurs visés par "Gestation" s’écartent des deux groupes. ( Phase 1)
-- Vite dps l'add qui pop suite à "Gestation". ( Phase 1)
-- Esquiver les "Geyser de sang". ( Phase 2)
-- Sock des "Bombe de peste" ( personnes désignés pour le RL ). ( Phase 2)
-- Se pack dans un coin de salle opposé aux personnes qui sock les "Bombe de peste" pour diriger les "Geyser de sang". ( Phase 2)
+- Les joueurs visés par [Contagion](https://fr.wowhead.com/spell=267242/contagion)  s’écartent des deux groupes. ( Phase 1)
+- Vite dps l'add qui pop suite à [Contagion](https://fr.wowhead.com/spell=267242/contagion). ( Phase 1)
+- Esquiver les [Geyser de sang](https://fr.wowhead.com/spell=265370/geyser-de-sang). ( Phase 2)
+- Sock des [Bombe de peste](https://fr.wowhead.com/spell=266948/bombe-de-peste) ( personnes désignés pour le RL ). ( Phase 2)
+- Se pack dans un coin de salle opposé aux personnes qui sock les [Bombe de peste](https://fr.wowhead.com/spell=266948/bombe-de-peste) pour diriger les [Geyser de sang](https://fr.wowhead.com/spell=265370/geyser-de-sang). ( Phase 2)
 
 #### HEAL : 
 
 - Faire attention aux joueurs affectés par "Vecteur Oméga".
-- Esquiver les "Geyser de sang". ( Phase 2)
-- Sock des "Bombe de peste" ( personnes désignés pour le RL ). ( Phase 2)
-- Se pack dans un coin de salle opposé aux personnes qui sock les "Bombe de peste" pour diriger les "Geyser de sang". ( Phase 2)
+- Esquiver les [Geyser de sang](https://fr.wowhead.com/spell=265370/geyser-de-sang). ( Phase 2)
+- Sock des [Bombe de peste](https://fr.wowhead.com/spell=266948/bombe-de-peste) ( personnes désignés pour le RL ). ( Phase 2)
+- Se pack dans un coin de salle opposé aux personnes qui sock les [Bombe de peste](https://fr.wowhead.com/spell=266948/bombe-de-peste) pour diriger les [Geyser de sang](https://fr.wowhead.com/spell=265370/geyser-de-sang). ( Phase 2)
 
 ## Strat en Vidéo : https://www.youtube.com/watch?v=qC0ZvHldXDw.
 
@@ -327,6 +326,7 @@ Les joueurs autre que les tanks devront se placer derrière Zul de sorte à ce q
 #### HEAL : 
 
 - Faire attention aux joueurs touché par [Sombre révélation](https://fr.wowhead.com/spell=273365/sombre-r%C3%A9v%C3%A9lation). ( Phase 1)
+- Faire attention aux joueurs qui soak les  [Nappe de ténèbres](https://fr.wowhead.com/spell=273361/nappe-de-t%C3%A9n%C3%A8bres). ( Phase 1 & 2)
 - Garder du mana pour les [Point de corruption](https://fr.wowhead.com/spell=274168/point-de-corruption). ( Phase 2)
 - Dispell les joueurs touché par [Désir de mort](https://fr.wowhead.com/spell=274271/d%C3%A9sir-de-mort) quand ils arrivent loin du raid. ( Phase 2)
 
