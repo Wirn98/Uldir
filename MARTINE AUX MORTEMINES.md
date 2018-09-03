@@ -201,18 +201,20 @@ Les joueurs ciblés par Tromperie frémissante doivent se placer dans un coin de
 Etincelle de Titan arrive plus souvent. Les dps doivent encaisser les Orbe de corruption qui tombent du ciel. Un dps par orbe. Un dps sous Orbe de corruption obtient Pacte du corrupteur pendant 30 secondes. À la fin du pacte, il subit Volonté du Corrupteur. Il faudra contrôler, interrompre ou/et tuer ce dps.
 ```
 
+#### 
+
 #### TANK : 
 
 - Tanker dos au raid.
-- Switch à chaque fois que le boss lance "Fracasser"
-- Tanker le boss sur un des nérubiens en Phase 3.
+- Switch à chaque fois que le boss lance "Fracasser" ( Combo de 3 coups).
+- Tanker le boss sur un des nérubiens en Phase 2.
 - Esquiver "Déferlante ténébreuse" à 100% d'énergie du boss.
 
 #### DPS :
 
 - Rester de-pack durant la Phase 1.
 - Les joueurs ciblés par les Guerrier silithide doivent se pack derrière le boss et les autres doivent les dépop rapidement en Phase 1.
-- Focus les nérubiens et les kick à tours de rôle.
+- Focus les nérubiens et les kick à tours de rôle en Phase 2.
 - Les joueurs ciblés par Tromperie frémissante doivent se placer dans un coin de la salle pour placer le nuage inquiétant en Phase 2.
 - Les DPS distances doivent se mettre où les"Etincelle de Titan" tombent pour Sock. ( Ils seront buff par "Pacte du corrupteur" qui va augmenter leur dps ).
 - Controle ou dps les dps qui arrivent à la fin du "Pacte du corrupteur".
@@ -225,6 +227,52 @@ Etincelle de Titan arrive plus souvent. Les dps doivent encaisser les Orbe de co
 - Esquiver "Déferlante ténébreuse" à 100% d'énergie du boss.
 
 ## Strat en vidéo : https://www.youtube.com/watch?v=nQiWeuEcQ20.
+
+
+
+
+
+## Vectis
+
+#### Phase 1 : 
+
+```
+Les tanks subiront Affliction évolutive. Il faudra changer de tank environ tous les 3-4 stacks -ou plus selon votre confiance.
+
+Les joueurs affectés par Vecteur Oméga doivent être soignés en priorité. En quittant le joueur, le Vecteur Oméga applique une Infection rémanente et saute sur le joueur le plus proche. Vectis lance régulièrement Contagion, dont les dégâts sont augmentés sur les joueurs sous Infection rémanente, qui restera jusqu’à la fin du combat et peut se cumuler. L’idée est de créer deux emplacements au corps à corps du boss. Sur le premier, le raid se groupe en se superposant. Sur le second, les joueurs ayant le plus de charges d'Infection rémanente s’écartent pour ne pas avoir trop de charges.
+Les joueurs visés par Gestation s’écartent des deux groupes. Le monstre qui apparaît suite au sort doit être tanké. Tuez-le le plus rapidement possible, pour éviter que trop d’Immunosuppression soient incantées.
+```
+
+#### Phase 2 : 
+
+```
+Vectis se transforme en une flaque de sang qu’il ne faut pas toucher et se met dans un coin de la salle. Il tire en boucle des Geyser de sang vers des joueurs aléatoires qui doivent être esquivés. Il faudra encaisser les Bombe de peste pour empêcher l’apparition d’autres monstres. Un joueur par bombe suffit. Le raid devra se regrouper dans un coin de la salle pour que les joueurs encaissant les bombes aient le moins possible de geysers à esquiver. Après 3 vagues de bombes, retour en phase 1.
+```
+
+#### 
+
+#### TANK : 
+
+- Switch de tank à partir de 3 stack d'"Affliction évolutive" ( 4 possible mais à éviter ).
+- L'add qui pop suite à "Gestation" doit etre tank pour le tank ayant le plus de stack. ( Phase 1)
+- Esquiver les "Geyser de sang". ( Phase 2)
+- Sock des "Bombe de peste" ( personnes désignés pour le RL ). ( Phase 2)
+- Se pack dans un coin de salle opposé aux personnes qui sock les "Bombe de peste" pour diriger les "Geyser de sang". ( Phase 2)
+
+#### DPS : 
+
+- Les joueurs visés par "Gestation" s’écartent des deux groupes. ( Phase 1)
+- Vite dps l'add qui pop suite à "Gestation". ( Phase 1)
+- Esquiver les "Geyser de sang". ( Phase 2)
+- Sock des "Bombe de peste" ( personnes désignés pour le RL ). ( Phase 2)
+- Se pack dans un coin de salle opposé aux personnes qui sock les "Bombe de peste" pour diriger les "Geyser de sang". ( Phase 2)
+
+#### HEAL : 
+
+- Faire attention aux joueurs affectés par "Vecteur Oméga".
+- Esquiver les "Geyser de sang". ( Phase 2)
+- Sock des "Bombe de peste" ( personnes désignés pour le RL ). ( Phase 2)
+- Se pack dans un coin de salle opposé aux personnes qui sock les "Bombe de peste" pour diriger les "Geyser de sang". ( Phase 2)
 
 ## License
 Martine Aux Mortemines Copyright
