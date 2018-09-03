@@ -54,7 +54,7 @@ Lorsque que l'ascenseur arrive à destination, retour en phase 1. Mais les Goutt
 #### DPS : 
 
 - Repartir les "Tempête de sang" du côté où le boss place sont arme.
-- Ce pack à l'opposer l'opposer de sont arme quand le boss fait "broyeur de sang".
+- Ce pack à l'opposer de sont arme quand le boss fait "broyeur de sang".
 - Kite les Gouttelette volatile qui seront pris par un tank dans la Phase 2. Dans la phase 3 ils devront etre dps par les Dps distances.
 - Burst et BL en Phase 3.
 
@@ -275,6 +275,47 @@ Vectis se transforme en une flaque de sang qu’il ne faut pas toucher et se met
 - Se pack dans un coin de salle opposé aux personnes qui sock les "Bombe de peste" pour diriger les "Geyser de sang". ( Phase 2)
 
 ## Strat en Vidéo : https://www.youtube.com/watch?v=qC0ZvHldXDw.
+
+
+
+
+
+## Zul, ressuscité
+
+#### Phase 1 : 
+
+```
+Zul va lancer lui même plusieurs sorts et avoir de nombreux alliés. Il lancera en boucle Barrage d’ombre. Ce cast fait qu’il ne sera pas nécessaire de tanker Zul. Un joueur devra encaisser les Nappe de ténèbres qui apparaîtront pour éviter les dégâts sur le raid. Les joueurs affectés par Sombre révélation devront s’écarter le plus loin possible du raid. Il faudra toute suite tuer les Séide de Zul qui apparaissent suite aux Sombre révélation à coup de Torrent arcanique ou de dispell (ou de façon classique).
+
+Zul invoquera différents alliés. Au début du combat, il y aura une Maléficieuse de sang nazmani, une Broyeuse nazmani et quatre Crogg assoiffé de sang. D’autres de ces monstres apparaîtront au cours du combat. Il faut tanker la Broyeuse nazmani dos au raid et loin des autres monstres, sur le côté de la salle, avec une Maléficieuse de sang nazmani pour éviter que Zul ou les Crogg assoiffé de sang reçoivent Pouls grondant. La Maléficieuse de sang nazmani doit être aussi tankée loin de Zul pour avoir le temps de tuer les Ichor animé avant qu’ils n’arrivent à Zul et le soignent.
+
+À l’ouverture du combat, tankez tous les adds sur Zul pour pouvoir les tomber en zone. Quelques secondes plus tard, écartez la Broyeuse nazmani et la Maléficieuse de sang nazmani. Tombez la Maléficieuse de sang nazmani en priorité, puis la Broyeuse nazmani. Les Crogg assoiffé de sang devraient tomber avec vos dégâts de zone. Si deux Maléficieuse de sang nazmani sont au même moment dans la zone, écartez-les pour éviter Présence sanguine.
+```
+
+#### Phase 2 : 
+
+```
+Zul utilise l’énergie accumulé pour lancer Point de corruption, appliquant une malédiction cumulable et infinie à tous les joueurs.
+
+Zul devra être tanké dos au raid et au milieu de la salle. Les tanks subissent Dégorgement sanguin. Le changement de tank devra être effectuée avant la fin du débuff pour que le tank puisse placer sa flaque sur le bord de la salle. Les Nappe de ténèbres restent de la première phase. Les joueurs ciblés par Désir de mort devront être purgés de l’effet le plus loin possible du raid et si possible pas au même moment pour laisser du temps aux soigneurs de remonter le raid. Le saut de foi du prêtre est très utile dans cette situation.
+
+Les joueurs autre que les tanks devront se placer derrière Zul de sorte à ce que le bord le plus proche ne soit pas celui juste en face de Zul, pour ne pas risquer de courir dans son Dégorgement sanguin ou dans les zones relâchées suite au Dégorgement sanguin.
+```
+
+#### 
+
+#### TANK : 
+
+- tanker la [Broyeuse nazmani](https://fr.wowhead.com/npc=139051/broyeuse-nazmani) dos au raid et loin des autres monstres
+
+#### DPS : 
+
+- Un joueur devra encaisser les "Nappe de ténèbres". ( Phase 1)
+- Les joueurs affectés par "Sombre révélation" devront s’écarter le plus loin possible du raid. ( Phase 1).
+- Focus les add qui pop suite à "Sombre révélation" dispel possible. ( Phase 1)
+- 
+
+#### HEAL : 
 
 ## License
 Martine Aux Mortemines Copyright
