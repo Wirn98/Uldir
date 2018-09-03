@@ -317,8 +317,10 @@ Les joueurs autre que les tanks devront se placer derrière Zul de sorte à ce q
 
 - Un joueur devra encaisser les [Nappe de ténèbres](https://fr.wowhead.com/spell=273361/nappe-de-t%C3%A9n%C3%A8bres) ( Phase 1 & 2)
 - Les joueurs affectés par [Sombre révélation](https://fr.wowhead.com/spell=273365/sombre-r%C3%A9v%C3%A9lation) devront s’écarter le plus loin possible du raid. ( Phase 1).
+- Les joueurs ciblés par [Séide de Zul](https://fr.wowhead.com/npc=138493/s%C3%A9ide-de-zul) devront kit si ils ne sont pas tuer à temps. ( Phase 1)
 - Focus les [Séide de Zul](https://fr.wowhead.com/npc=138493/s%C3%A9ide-de-zul) qui pop suite à [Sombre révélation](http://fr.wowhead.com/spell=273365/sombre-r%C3%A9v%C3%A9lation) dispel possible. ( Phase 1)
 - Tuer les [Ichor animé](https://fr.wowhead.com/npc=139195/ichor-anim%C3%A9) avant qu’ils n’arrivent à Zul sinon ils le heal. ( Phase 1)
+- Focus les [Crogg assoiffé de sang](https://fr.wowhead.com/npc=139059/crogg-assoiff%C3%A9-de-sang) ! ( Phase 1)
 - DPS Boss quand les add sont tous mort. ( Phase 1)
 - Placez vous dans le dos du boss. ( Phase 2)
 
