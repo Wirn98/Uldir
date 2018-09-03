@@ -216,8 +216,8 @@ Etincelle de Titan arrive plus souvent. Les dps doivent encaisser les Orbe de co
 - Les joueurs ciblés par les Guerrier silithide doivent se pack derrière le boss et les autres doivent les dépop rapidement en Phase 1.
 - Focus les nérubiens et les kick à tours de rôle en Phase 2.
 - Les joueurs ciblés par Tromperie frémissante doivent se placer dans un coin de la salle pour placer le nuage inquiétant en Phase 2.
-- Les DPS distances doivent se mettre où les"Etincelle de Titan" tombent pour Sock. ( Ils seront buff par "Pacte du corrupteur" qui va augmenter leur dps ).
-- Controle ou dps les dps qui arrivent à la fin du "Pacte du corrupteur".
+- Les DPS distances doivent se mettre où les"Etincelle de Titan" tombent pour Soak en Phase 3. ( Ils seront buff par "Pacte du corrupteur" qui va augmenter leur dps ).
+- Controle ou dps les dps qui arrivent à la fin du "Pacte du corrupteur" en Phase 3.
 - Burst et BL en Phase 3.
 - Esquiver "Déferlante ténébreuse" à 100% d'énergie du boss.
 
