@@ -306,16 +306,29 @@ Les joueurs autre que les tanks devront se placer derrière Zul de sorte à ce q
 
 #### TANK : 
 
-- tanker la [Broyeuse nazmani](https://fr.wowhead.com/npc=139051/broyeuse-nazmani) dos au raid et loin des autres monstres
+- Tanker la [Broyeuse nazmani](https://fr.wowhead.com/npc=139051/broyeuse-nazmani) dos au raid et loin des autres mobs et du Boss. ( Phase 1)
+- Tanker la [Maléficieuse de sang nazmani](https://fr.wowhead.com/npc=139057/mal%C3%A9ficieuse-de-sang-nazmani) avec la [Broyeuse nazmani](https://fr.wowhead.com/npc=139051/broyeuse-nazmani). ( Phase 1)
+- Si une deuxieme [Maléficieuse de sang nazmani](https://fr.wowhead.com/npc=139057/mal%C3%A9ficieuse-de-sang-nazmani) pop, il faut la tanker loin de l'autre. ( Phase 1)
+- Zul devra être tanké dos au raid et au milieu de la salle. ( Phase 2)
+- Le switch de tank doit ce faire avant la fin de [Dégorgement sanguin](https://fr.wowhead.com/spell=274358/d%C3%A9gorgement-sanguin).
+- Placer la flaque qui apparait suite à [Dégorgement sanguin](https://fr.wowhead.com/spell=274358/d%C3%A9gorgement-sanguin) sur un bord de la salle. ( Phase 2)
 
 #### DPS : 
 
-- Un joueur devra encaisser les "Nappe de ténèbres". ( Phase 1)
-- Les joueurs affectés par "Sombre révélation" devront s’écarter le plus loin possible du raid. ( Phase 1).
-- Focus les add qui pop suite à "Sombre révélation" dispel possible. ( Phase 1)
-- 
+- Un joueur devra encaisser les [Nappe de ténèbres](https://fr.wowhead.com/spell=273361/nappe-de-t%C3%A9n%C3%A8bres) ( Phase 1 & 2)
+- Les joueurs affectés par [Sombre révélation](https://fr.wowhead.com/spell=273365/sombre-r%C3%A9v%C3%A9lation) devront s’écarter le plus loin possible du raid. ( Phase 1).
+- Focus les [Séide de Zul](https://fr.wowhead.com/npc=138493/s%C3%A9ide-de-zul) qui pop suite à [Sombre révélation](http://fr.wowhead.com/spell=273365/sombre-r%C3%A9v%C3%A9lation) dispel possible. ( Phase 1)
+- Tuer les [Ichor animé](https://fr.wowhead.com/npc=139195/ichor-anim%C3%A9) avant qu’ils n’arrivent à Zul sinon ils le heal. ( Phase 1)
+- DPS Boss quand les add sont tous mort. ( Phase 1)
+- Placez vous dans le dos du boss. ( Phase 2)
 
 #### HEAL : 
+
+- Faire attention aux joueurs touché par [Sombre révélation](https://fr.wowhead.com/spell=273365/sombre-r%C3%A9v%C3%A9lation). ( Phase 1)
+- Garder du mana pour les [Point de corruption](https://fr.wowhead.com/spell=274168/point-de-corruption). ( Phase 2)
+- Dispell les joueurs touché par [Désir de mort](https://fr.wowhead.com/spell=274271/d%C3%A9sir-de-mort) quand ils arrivent loin du raid. ( Phase 2)
+
+## Strat en Vidéo : https://www.youtube.com/watch?v=_jiyBY9C1a8.
 
 ## License
 Martine Aux Mortemines Copyright
