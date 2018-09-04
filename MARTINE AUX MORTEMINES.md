@@ -155,7 +155,7 @@ Arrivé à 50% de points de vie, le Dévoreur lance Frénésie fétide. Les tank
 #### DPS :
 
 - Focus les Corpuscule de corruption !
-- Se mettre dos à une alcoves pour éviter le Bump.
+- Se mettre dos à une alcoves ou un mur pour éviter le Bump.
 - Esquiver [Régurgitation putride](https://fr.wowhead.com/spell=262291/r%C3%A9gurgitation-putride).
 - Burst et BL à 50% de pv du Boss.
 
@@ -389,6 +389,16 @@ Retour en Phase 1.
 - Se de-pack au début de la phase 2 !
 - Faire tres attention aux tank dans chaque phase 2.
 - Il faut esquiver le [Rayon d’oblitération](https://fr.wowhead.com/spell=274113/rayon-d-oblit%C3%A9ration). ( Phase 2)
+
+## Strat en Video : https://www.youtube.com/watch?v=alCDRpNMvx8.
+
+
+
+
+
+## G'Huun
+
+
 
 ## License
 Martine Aux Mortemines Copyright
