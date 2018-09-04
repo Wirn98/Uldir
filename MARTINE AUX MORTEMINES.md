@@ -10,11 +10,19 @@ La liste des strats pour les raids BFA !
 
 ### ULDIR
 
-* TALOC  :`https://www.youtube.com/watch?v=AjJYYFiO5iU `
-* DAME : `https://www.youtube.com/watch?v=c2ENd-SKWUU`
-* Dévoreur Fétide :` https://www.youtube.com/watch?v=pIwLYabdHi4`
-* Zek'voz :` https://www.youtube.com/watch?v=Op34Z9azD0s`
-* Vectis :` https://www.youtube.com/watch?v=K5WdG-8wh94`
+* #### TALOC  : https://www.youtube.com/watch?v=AjJYYFiO5iU
+
+* #### DAME : https://www.youtube.com/watch?v=c2ENd-SKWUU&t=308s
+
+* #### Dévoreur Fétide : https://www.youtube.com/watch?v=cZBbhfk6NIg
+
+* #### Zek'vos : https://www.youtube.com/watch?v=Op34Z9azD0s&t=161s
+
+* #### Vectis : https://www.youtube.com/watch?v=K5WdG-8wh94
+
+* #### Zul : https://www.youtube.com/watch?v=VEeegaJrapg
+
+* #### Mythrax : https://www.youtube.com/watch?v=aMwUcP6b1no&t=113s
 
 ```
 L'intégralité des strats à prendre en note pour Udir :
