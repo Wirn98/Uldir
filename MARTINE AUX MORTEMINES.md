@@ -1,6 +1,3 @@
-
-                                                                  ![](https://cdn.discordapp.com/attachments/485654292938752001/485661340497870870/telechargement.png)
-
 #                         **MARTINE AUX MORTEMINES !**
 
 La liste des strats pour les raids BFA !
