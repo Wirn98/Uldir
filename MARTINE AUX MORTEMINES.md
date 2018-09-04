@@ -337,5 +337,58 @@ Les joueurs autre que les tanks devront se placer derrière Zul de sorte à ce q
 
 ## Strat en Vidéo : https://www.youtube.com/watch?v=_jiyBY9C1a8.
 
+
+
+
+
+## Mythrax
+
+Mythrax alterne entre 2 phases, passant en phase à chaque fois qu’il perd 25% de ses points de vie.
+
+Phase 1 : 
+
+```
+Tous les sorts de Mythrax vont appliquer un nombre de charge d’Annihilation. Lorsque qu'un joueur reçoit des charges d'Annihilation, il laisse échapper des Fragment d’existence. Les tanks devront changer avant qu’un des deux subissent 2 Cisaille d’essence, pour laisser le temps au tank avec l’affaiblissement de la cisaille de récupérer des Fragment d’existence dans le raid. Il faut tanker Mythrax dos au raid. En DPS, il n’est pas nécessaire de récupérer tous vos Fragment d’existence à chaque fois. Laissez-en parfois 1 ou 2 pour que votre tank puisse en ramasser si besoin est -mais ne montez pas trop en Annihilation. Les joueurs devront se tenir à distance les uns des autres pour éviter que plus de 1 joueur soit touché par Sphère d’oubli. Aidez tout de suite un des  joueurs piégés dans les sphères. Aidez l’autre un peu après mais faites attention aux dégâts libérés par la Déferlante d’oubli.
+
+Les joueurs ciblés par Ruine imminente doivent s’écarter le plus loin possible du raid. Le boss lancera Choc oblitérateur, une énorme vague de dégâts partant de lui. Si vous manquez de Fragment d’existence pour vos tanks, vous pouvez intentionnellement prendre ce sort pour en créer.
+
+À 10% de points de vie, Mythrax lancera Pulvérisation d’essence. Il faudra le tuer le plus vite possible.
+```
+
+Phase 2 : 
+
+```
+Mythrax va au centre de la salle et ne prend plus de dégâts. Il ne faut pas s’en approcher. Deux Sphère d’oubli apparaissent instantanément. Il faut esquiver le Rayon d’oblitération. Des Visions de folie vont apparaître sur cinq joueurs. Il faut les tuer, les contrôler et les interrompre. De plus, deux Destructeur n'raqi vont apparaitres. Ils devront êtres tankés loin l’un de l’autre. Il faut interrompre les Salve du Vide et les tuer rapidement avant que les tanks ne prennent trop de dégâts. Essayez d’ailleurs de rentrer en phase 2 avec des tanks sans ou presque sans Annihilation.
+
+Retour en Phase 1.
+```
+
+####
+
+#### TANK : 
+
+- Switch des tank apres [Cisaille d’essence](https://fr.wowhead.com/spell=273282/cisaille-d-essence). ( Phase 1)
+- Avoir le moins de stack d'[Annihilation](https://fr.wowhead.com/spell=272336/annihilation) possible. ( Phase 1)
+- Se de-pack au début de la phase 2 !
+- Tank les adds avec plus de 40m entre eux, chaqu'un un add. Veillez à avoir le moins de stack d'[Annihilation](https://fr.wowhead.com/spell=272336/annihilation) possible avant les Phase 2. (Phase 2) 
+
+#### DPS :
+
+- Esquiver [Choc oblitérateur](https://fr.wowhead.com/spell=273554/choc-oblit%C3%A9rateur) sauf si un des tank a besoin de [Fragment d’existence](https://fr.wowhead.com/spell=272480/fragment-d-existence). ( CD Def )( Phase 1)
+- S'écarter du raid si vous etes ciblez pas [Ruine imminente](https://fr.wowhead.com/spell=272536/ruine-imminente). ( Phase 1)
+- Dps ou grap les joueurs CM par [Sphère d’oubli](https://fr.wowhead.com/spell=272407/sph%C3%A8re-d-oubli). ( Phase 1)
+- Se de-pack au début de la phase 2 !
+- Garder vos cd pour les Phase 2, car les adds doivent tomber rapidement est etre kick pour ne pas lancer [Salve du Vide](https://fr.wowhead.com/spell=273945/salve-du-vide).
+- Il faut esquiver le [Rayon d’oblitération](https://fr.wowhead.com/spell=274113/rayon-d-oblit%C3%A9ration). ( Phase 2)
+- Des [Visions de folie](https://fr.wowhead.com/spell=273951/visions-de-folie) vont apparaître sur cinq joueurs. Il faut les tuer, les contrôler et les interrompre. ( Phase 2)
+
+#### HEAL : 
+
+- Dps ou grap les joueurs CM par [Sphère d’oubli](https://fr.wowhead.com/spell=272407/sph%C3%A8re-d-oubli). ( Phase 1)
+- Faire attention aux [Sphère d’oubli](https://fr.wowhead.com/spell=272407/sph%C3%A8re-d-oubli) qui vont faire des dégats sur le raid quand le CM sera liberé. ([Déferlante d’oubli](https://fr.wowhead.com/spell=276863/d%C3%A9ferlante-d-oubli))( Phase 1)
+- Se de-pack au début de la phase 2 !
+- Faire tres attention aux tank dans chaque phase 2.
+- Il faut esquiver le [Rayon d’oblitération](https://fr.wowhead.com/spell=274113/rayon-d-oblit%C3%A9ration). ( Phase 2)
+
 ## License
 Martine Aux Mortemines Copyright
